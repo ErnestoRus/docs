@@ -33,19 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Сайт",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://app.botcreate.io"
     }
   ],
   "navigation": [
